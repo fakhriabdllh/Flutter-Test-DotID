@@ -1,16 +1,9 @@
-# dot_indonesia
+# Dot-Indonesia-Test
+Flutter developer test pada Dot Indonesia,. Menggunakan flutter, MVC Pattern, dan GetX state Management.
 
-A new Flutter project.
 
-## Getting Started
+Login masih sangat sederhana, user dapat melakukan login jika:
+1. input text pada email mengandung "@" dan ".com"
+2. input text pada password mengandung Uppercase, lowercase, dan minimal 6 karakter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Untuk Searching sendiri belum sempat diselesaikan, terbatas oleh waktu yang tersedia
